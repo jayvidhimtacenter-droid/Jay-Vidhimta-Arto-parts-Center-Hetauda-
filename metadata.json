@@ -1,0 +1,6 @@
+{
+  "name": "Jai Vidimta Auto Parts Center",
+  "description": "Professional auto parts center in Hetauda-5, Sanopokhara providing genuine spare parts, engine repair, and servicing for all motorcycles and scooters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
